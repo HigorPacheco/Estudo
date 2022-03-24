@@ -1,0 +1,26 @@
+Instrução para dar inicio ao projeto
+--> instalar o seguinte pacote pra realização do Debug da Aplicação pelo mobile
+    https://docs.expo.dev/index.html
+    npm install --global expo-cli
+    expo init my-project
+    Vai perguntar como vc quer criar o projeto selecionar black
+
+
+-- Componentes Utilizados (abrir o cmd direto na pasta do projeto)
+   instalar o npm add styled-components
+   essa e uma biblioteca de estilização de componentes que tbm funciona na web
+   expo install @react-navigation/native
+   expo install react-native-screens react-native-safe-area-context
+   expo install @react-navigation/native-stack
+   expo install react-native-animatable
+   expo install react-native-vector-icons
+   npm install react-native-elements
+   npx react-native link react-native-vector-icons
+   npm install react-native-vector-icons
+
+-- startar o projeto
+   digitar npm  start
+   selecionar o link abaixo do Qrcode
+   ira abrir uma nova guia dai vc abre ela e escaneia o qrcode
+
+
